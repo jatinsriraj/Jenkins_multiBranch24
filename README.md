@@ -1,5 +1,5 @@
 # JavaCore-ApniKaksha
-**This repository contains all the code that I practiced while learning Java from the YouTube channel - ApniKaksha.**
+**This repository contains all the code that by Jatin.**
 
 *All the contents originally belong to ****Mr.Aman Dhattarwal and Mr.Anuj Kumar Sharma****, the mentors.*
 
